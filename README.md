@@ -5,6 +5,5 @@ As github has a limit to push the data, I have provided links here in order to d
 
 https://www.kaggle.com/utathya/imdb-review-dataset
 
-https://www.kaggle.com/nilanml/imdb-review-deep-model-94-89-accuracy/data
 
 Thanks!
